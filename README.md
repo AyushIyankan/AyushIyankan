@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Ayush Iyankan and I'm a front end devoloper! 👋
 
 <!--
 **AyushIyankan/AyushIyankan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
