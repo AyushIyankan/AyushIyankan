@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... AWS , MongoDB
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](mailto:ayushiyankan@protonmail.com)
+- 📫 How to reach me: ... [Email](mailto:ayushiyankan007@gmail.com)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am still learning..
 -->
