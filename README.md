@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Learning Reactjs, AWS and MongoDB.
 - 🎓 &nbsp; Studying Computer Science & Engineering at Govt. Engineering College, Sreekrishnapuram.
 
-[![Ayush Iyankan's github stats](https://github-readme-stats.vercel.app/api?username=AyushIyankan&count_private=true&show_icons=true&theme=radical)](https://github.com/WangNingkai)
+[![Ayush Iyankan's github stats](https://github-readme-stats.vercel.app/api?username=AyushIyankan&count_private=true&show_icons=true&theme=radical)](https://github.com/AyushIyankan)
 
 ### 💻 Stack I Work With
 
