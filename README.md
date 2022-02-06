@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying Computer Science & Engineering at Govt. Engineering College, Sreekrishnapuram.
 
 [![Ayush Iyankan's github stats](https://github-readme-stats.vercel.app/api?username=AyushIyankan&count_private=true&show_icons=true&theme=radical)](https://github.com/AyushIyankan)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushIyankan&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushIyankan&theme=great-gatsby&layout=compact)](https://github.com/AyushIyankan)
 </br>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
