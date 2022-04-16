@@ -1,7 +1,7 @@
 ### My name is Ayush Iyankan. I'm a front end devoloper and UI Designer! 👋
 
 
-- 🤔 &nbsp; Learning Reactjs, AWS and MongoDB.
+- 🤔 &nbsp; Learning Reactjs.
 - 🎓 &nbsp; Studying Computer Science & Engineering at Govt. Engineering College, Sreekrishnapuram.
 
 [![Ayush Iyankan's github stats](https://github-readme-stats.vercel.app/api?username=AyushIyankan&count_private=true&show_icons=true&theme=radical)](https://github.com/AyushIyankan)
