@@ -1,4 +1,4 @@
-### My name is Ayush Iyankan. I'm a front end devoloper and UI Designer! 👋
+### My name is Ayush Iyankan. I'm a React devoloper and UI Designer! 👋
 
 
 - 🤔 &nbsp; Learning Reactjs.
